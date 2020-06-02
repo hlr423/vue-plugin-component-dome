@@ -19,7 +19,7 @@ npm run build --report
 ```
 汇集各种项目采坑，好用的插件，和自己的 small dome 
 #
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+For a detailed explanation on how things work, check out the [guide](https://github.com/hlr423/vue-plugin-component-dome) 
 
 ##  vue模拟终端命令行
 > commander component
