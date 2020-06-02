@@ -16,7 +16,7 @@
     "element-ui": "^2.11.1",
     "iview": "^3.4.0",
     "iview-loader": "^1.2.2",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "js-base64": "^2.5.2",
     "js-yaml": "^3.13.1",
     "jsoneditor": "^5.32.5",
